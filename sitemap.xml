@@ -4,9 +4,6 @@
         <loc>http://amycao.me/3am.html</loc>
     </url>
     <url>
-        <loc>http://amycao.me/Coding.html</loc>
-    </url>
-    <url>
         <loc>http://amycao.me/Connect.html</loc>
     </url>
     <url>
@@ -19,12 +16,12 @@
         <loc>http://amycao.me/Discovery.html</loc>
     </url>
     <url>
-        <loc>http://amycao.me/Discovery1.html</loc>
-    </url>
-    <url>
-        <loc>http://amycao.me/Hiking.html</loc>
+        <loc>http://amycao.me/Friends.html</loc>
     </url>
     <url>
         <loc>http://amycao.me/index.html</loc>
+    </url>
+    <url>
+        <loc>http://amycao.me/tempDiscovery.html</loc>
     </url>
 </urlset>
